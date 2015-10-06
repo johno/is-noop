@@ -2,7 +2,7 @@
   "name": "is-noop",
   "description": "Check whether a value is an empty, noop function.",
   "author": "John Otander",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -15,7 +15,11 @@
     "type": "git",
     "url": "https://github.com/johnotander/is-noop.git"
   },
-  "keywords": [],
+  "keywords": [
+    "noop",
+    "empty",
+    "function"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/johnotander/is-noop/issues"
